@@ -1,0 +1,9 @@
+services:
+  
+  wordpress:fpm-alpine:
+
+  mariadb:
+   
+  nginx:
+
+  certbot:
